@@ -1,8 +1,7 @@
 # Clasificación de cultivares con el conjunto Wine
 
-Este repositorio corresponde a la actividad R1-A2-S8 de Sofía. La pregunta que
-guía el ejercicio es sencilla: ¿hasta qué punto trece mediciones químicas
-permiten distinguir tres cultivares producidos en una misma región italiana?
+La pregunta que guía el ejercicio es sencilla: ¿hasta qué punto trece mediciones
+químicas permiten distinguir tres cultivares producidos en una misma región italiana?
 
 El conjunto Wine contiene 178 observaciones y no tiene valores faltantes. Para
 evitar que el resultado dependiera de una sola medida, comparé seis modelos con
