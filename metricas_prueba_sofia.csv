@@ -1,0 +1,7 @@
+modelo,exactitud,precision_macro,recall_macro,f1_macro,auc_macro
+Regresión logística,1.0,1.0,1.0,1.0,1.0
+Bosque aleatorio,1.0,1.0,1.0,1.0,1.0
+SVM,1.0,1.0,1.0,1.0,1.0
+KNN,0.977778,0.979167,0.981481,0.979724,1.0
+Naive Bayes,0.955556,0.95584,0.959259,0.956654,0.997888
+Árbol de decisión,0.888889,0.902924,0.890741,0.896018,0.915741
